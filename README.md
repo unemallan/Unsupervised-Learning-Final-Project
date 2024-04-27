@@ -2,14 +2,24 @@
 CSCA 5632 Final Project
 
 ## Project Title: 
-Unsupervised Learning for Customer Segmentation and Churn Prediction in Telecom Industry
+Predictive Maintance of Milling Machines to prevent certain failure modes.
 
 ## Objective:
-Utilize unsupervised learning techniques to segment customers based on their behavior and characteristics, and identify groups with a higher likelihood of churn. This is a continuation of the supervised learnig from the previous class. Here we will explore the use techniques like clustering to identify patterns and segments within the data that might indicate potential churn. 
+Implement clustering or sequence mining techniques to analyze time-series sensor data from machines or equipment. This can help in predicting when maintenance is needed to prevent failures. In this notebook we will use Milling machine hueristics such as speed, tempreture, RPM, machine type and operating temperature to predict possibility of a failure mode, There are 5 categries of failure for this project.
+
+* Tool wear failure (TWF):
+
+* Heat dissipation failure (HDF)
+
+* Power failure (PWF):
+
+* Overstrain failure (OSF): 
+
+* Random failures (RNF):
 
 ## Dataset:
-taken from Kaggle
-https://www.kaggle.com/c/customer-churn-prediction-2020/data
+S. Matzka, "Explainable Artificial Intelligence for Predictive Maintenance Applications," 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), 2020, pp. 69-74:.
+taken from Kaggle (https://www.kaggle.com/code/zakikurdya/predictive-maintenance/input)
 
 ## Tasks:
 
